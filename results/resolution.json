@@ -1,0 +1,38 @@
+{
+ "1280": {
+  "best": {
+   "Sobel": 92,
+   "Laplacian": 102,
+   "Canny": 102
+  },
+  "ms_per_frame": {
+   "Sobel": 10.08,
+   "Laplacian": 4.05,
+   "Canny": 0.35
+  }
+ },
+ "640": {
+  "best": {
+   "Sobel": 96,
+   "Laplacian": 92,
+   "Canny": 99
+  },
+  "ms_per_frame": {
+   "Sobel": 0.57,
+   "Laplacian": 0.39,
+   "Canny": 0.14
+  }
+ },
+ "320": {
+  "best": {
+   "Sobel": 92,
+   "Laplacian": 96,
+   "Canny": 94
+  },
+  "ms_per_frame": {
+   "Sobel": 0.16,
+   "Laplacian": 0.1,
+   "Canny": 0.1
+  }
+ }
+}
